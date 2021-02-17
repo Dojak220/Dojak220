@@ -18,10 +18,10 @@
 
 ## Academic Qualification
 ### 2016-2018 :arrow_right: Sciences and Technology
-[símbolo do curso de C&T](./CeTLogo.png?raw=true)
+<img src="https://github.com/Dojak220/Dojak220/blob/master/cet_logo.png" data-canonical-src="https://github.com/Dojak220/Dojak220/blob/master/cet_logo.png" width=71>
 
 ### 2019- :arrow_right: Computer Engineering
-[símbolo do curso de Engenharia de Computação](./EngCompLogo.png?raw=true)
+<img src="https://github.com/Dojak220/Dojak220/blob/master/EngComp3t.gif" data-canonical-src="https://github.com/Dojak220/Dojak220/blob/master/EngComp3t.gif" width=71>
 <br>
 
 _______________________________________________________________________________________________
