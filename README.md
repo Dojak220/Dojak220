@@ -16,7 +16,7 @@
 [![GitLab Bagde](https://img.shields.io/badge/-@Dojak220-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Dojak220)](https://gitlab.com/Dojak220)
 [![Instagram Bagde](https://img.shields.io/badge/@a13fielddorgival.r-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/a13fielddorgival.r/)](https://www.instagram.com/a13fielddorgival.r/)
 
-## Academic Qualification
+## Education
 ### 2016-2018 :arrow_right: Sciences and Technology
 <img src="https://github.com/Dojak220/Dojak220/blob/master/cet_logo.png" data-canonical-src="https://github.com/Dojak220/Dojak220/blob/master/cet_logo.png" width=71>
 
@@ -45,7 +45,7 @@ ________________________________________________________________________________
 [![GitLab Bagde](https://img.shields.io/badge/-@Dojak220-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Dojak220)](https://gitlab.com/Dojak220)
 [![Instagram Bagde](https://img.shields.io/badge/@a13fielddorgival.r-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/a13fielddorgival.r/)](https://www.instagram.com/a13fielddorgival.r/)
 
-## Formação Acadêmica
+## Formação
 ### 2016-2018 :arrow_right: Ciências e Tecnologia
 <img src="https://github.com/Dojak220/Dojak220/blob/master/cet_logo.png" data-canonical-src="https://github.com/Dojak220/Dojak220/blob/master/cet_logo.png" width=71>
 
