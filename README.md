@@ -2,10 +2,11 @@
 
 ### Hi there, my name's Dorgival Rocha 👋 :smile:
 
-- 🔭 I’m currently working at **Instituto Metrópole Digital** and **Include Engenharia**, located at UFRN.
+- 🔭 I’m currently working at **Instituto Metrópole Digital**, located at UFRN.
 - 🌱 I’m currently learning 
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=white)](https://v3.vuejs.org/)
-[![Cypress.io](https://img.shields.io/badge/Cypress-25262e?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/)
+<!-- [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=white)](https://v3.vuejs.org/)
+[![Cypress.io](https://img.shields.io/badge/Cypress-25262e?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/) -->
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://v3.vuejs.org/)
 [![Java](https://img.shields.io/badge/Java-d83936?style=flat-square&logo=java&logoColor=white)](https://www.java.com/)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white)](https://reactjs.org/)
 [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
@@ -33,10 +34,11 @@ ________________________________________________________________________________
 
 ### Ooi, me chamo Dorgival Rocha 👋 :smile:
 
-- 🔭 Estou trabalhando atualmente no **Instituto Metrópole Digital** e na **Include Engenharia**, localizados na UFRN.
+- 🔭 Estou trabalhando atualmente no **Instituto Metrópole Digital**, localizado na UFRN.
 - 🌱 Tenho estudado sobre
-[![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=white)](https://v3.vuejs.org/)
-[![Cypress.io](https://img.shields.io/badge/Cypress-25262e?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/)
+<!-- [![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=white)](https://v3.vuejs.org/)
+[![Cypress.io](https://img.shields.io/badge/Cypress-25262e?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/) -->
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)](https://v3.vuejs.org/)
 [![Java](https://img.shields.io/badge/Java-d83936?style=flat-square&logo=java&logoColor=white)](https://www.java.com/pt-BR/)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white)](https://pt-br.reactjs.org/)
 [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
@@ -55,3 +57,5 @@ ________________________________________________________________________________
 
 ### 2019- :arrow_right: Engenharia de Computação
 <img src="https://github.com/Dojak220/Dojak220/blob/master/EngComp3t.gif" data-canonical-src="https://github.com/Dojak220/Dojak220/blob/master/EngComp3t.gif" width=71>
+
+<!-- Markdown badges: https://github.com/Ileriayo/markdown-badges -->
