@@ -12,7 +12,7 @@
 [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=white)](https://reactnative.dev/)
 
 - 📫 How to reach me:
-[![GitLab Bagde](https://img.shields.io/badge/-dojak220@ufrn.edu.br-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:dojak220@ufrn.edu.br)](mailto:dojak220@ufrn.edu.br)
+[![GitLab Bagde](https://img.shields.io/badge/-dorgivalfilho10@outlook.com-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:dorgivalfilho10@outlook.com)](mailto:dojak220@ufrn.edu.br)
 [![LinkedIn Bagde](https://img.shields.io/badge/-Dorgival%20Rocha-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dorgival-rocha-0a76a0173/)](https://www.linkedin.com/in/dorgival-rocha-0a76a0173/)
 [![GitLab Bagde](https://img.shields.io/badge/-@Dojak220-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Dojak220)](https://gitlab.com/Dojak220)
 [![Instagram Bagde](https://img.shields.io/badge/@a13fielddorgival.r-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/a13fielddorgival.r/)](https://www.instagram.com/a13fielddorgival.r/)
