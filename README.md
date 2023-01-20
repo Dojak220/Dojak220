@@ -15,7 +15,7 @@
 [![GitLab Bagde](https://img.shields.io/badge/-@Dojak220-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Dojak220)](https://gitlab.com/Dojak220)
 [![Instagram Bagde](https://img.shields.io/badge/@a13fielddorgival.r-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dorgival.rocha/)](https://www.instagram.com/dorgival.rocha/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=dojak220&show_icons=true" alt="dojak220"/> 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=dojak220&show_icons=true" alt="dojak220"/> -->
 
 ## Education
 ### 2016-2018 :arrow_right: Sciences and Technology
@@ -45,7 +45,7 @@ ________________________________________________________________________________
 [![GitLab Bagde](https://img.shields.io/badge/-@Dojak220-330F63?style=flat-square&logo=gitlab&logoColor=white&link=https://gitlab.com/Dojak220)](https://gitlab.com/Dojak220)
 [![Instagram Bagde](https://img.shields.io/badge/@a13fielddorgival.r-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/dorgival.rocha/)](https://www.instagram.com/dorgival.rocha/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=dojak220&show_icons=true" alt="dojak220"/> 
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=dojak220&show_icons=true" alt="dojak220"/>  -->
 
 ## Formação
 ### 2016-2018 :arrow_right: Ciências e Tecnologia
